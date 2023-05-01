@@ -1,0 +1,35 @@
+Revisão Prova Segurança
+
+# Aula 01
+	- CID: confidencialidade, integridade e disbonibilidade
+	- Confidencialidade: evitar a revelação não autorizada de informação, somente que pode ver verá.
+		- Utiliza os seguintes conceitos: encriptação, controle de acesso, autenticação, autorização e segurançã física.
+	- Integridade: assegura que a informação não sera alterada sem autorização
+		- Utiliza os mesmos conceitos anterios + algumas ferramentas como checksum, backup e codigo de correção de dados.
+	- Disponibilidade: garante que a informação seja acessivel e modificável na hora certa para qaqueles que estão autorizados.
+		- Utiliza proteção fisica e redudância computacionais.
+	-  GAA (em ingles, A.A.A. ,Assurance, Authenticity, Anonymity), que se referem a
+garantia, autenticidade e anonimato.
+	- Garantia refere-se a como a confiança é fornecida e gerenciada em sistemas de computação. Confiança que pessoas ou sistemas se comportem de maneira que esperamos
+	- Autenticidade é a habilidade de determinar que afirmações, políticas e permissões oriundas de pessoas ou sistemas são genuínas. Ter certeza que a pessoa ou sistema é realmente ele mesmo.
+	- Anonimato é a propriedade de que certos registros ou transações não sejam atribuíveis a qualquer indivíduo
+	- O usuário é o elo mais fraco em segurança
+	- IAB orgão criado para definir os conceitos éticos dentro do mundo da internet.
+	- ISC² Certificadora de segurança em sistemas de informação. A primeira certificação é Systems Security Certified Practitioner - SSCP
+	- CISSP é uma certificação globalmente reconhecida e prestigiosa, que muitos profissionais de segurança buscam.
+
+# Aula 02
+	- NIST (National Institute of Standards and Technology - Instituto Nacional de
+Padronização e Tecnologia), Fornece padrões para medição e tecnologia para quase todos os dispositivos de computação.
+	- IEC (International Electrotechnical Commission - Comissão Eletrotécnica Internacional), Trata de uma ampla diversidade de áreas, incluindo: Geração de energia; Transmissão e distribuição de energia; aparelhos elétricos comerciais e de consumidores; Semicondutores; Baterias; Energia Solar; Telecomunicações;
+	- W3C (World Wide Web Consortium - Consórcio da World Wide Web), Padrões WWW, css, html e xml.
+	- IETF (Internet Engineering Task Force - Força-Tarefa de Engenharia da Internet)
+	- IAB - (Internet Architecture Board - Grupo de Arquitetura da Internet), arquitetura de protocolos e procedimentos, processos para criar padroes 
+	- IEEE - (Institute of Electrical and Electronics Engineers - Instituto de Engenheiros Eletricistas e Eletrônicos) apoia 38 sociedades que focalizam atividades em áreas técnicas específicas, que incluem magnética, fotônica e computação.
+	- ANSI (American National Standards Institute - Instituto Nacional Americano de Padronização)
+
+# Aula 03
+	-
+
+
+	

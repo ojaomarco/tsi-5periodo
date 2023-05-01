@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Expenses</string>
+    <string name="valor">Value</string>
+    <string name="vencimento">Due Date</string>
+    <string name="adicionar">Add</string>
+    <string name="categoria">Category:</string>
+    <string name="add">Add</string>
+    <string name="contas_agrupadas">Expenses by Category</string>
+    <string name="despesas_da_casa">House expenses</string>
+    <string name="campo_vazio">Fill in all fields to add a category...</string>
+    <string name="selecione_cat_editar">Select an category to edit...</string>
+    <string name="selecione_cat_remove">Select an category to remove...</string>
+    <string name="selecione_desp_editar">Select an expense to edit...</string>
+    <string name="selecione_desp_remove">Select an expense to remove...</string>
+    <string name="quantidade">Quantity</string>
+    <string name="confirmacao">Confirmation</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+    <string name="despesa">Expense:</string>
+    <string name="excluir_despesa">Do you want to delete the expense: </string>
+    <string name="editar_despesa">Want to edit the expense: </string>
+    <string name="excluir_cat">Do you want to delete the category: </string>
+    <string name="editar_cat">Want to edit the category: </string>
+</resources>

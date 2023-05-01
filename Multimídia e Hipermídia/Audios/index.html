@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+    <title>Exemplo 3 Audio</title>
+</head>
+
+<body>
+    <h1>Exemplo 3 - Autoplay </h1>
+
+    <audio id="audioMusic" autoplay loop controls volume="0.9">
+        <source src="samples/sample.mp3">
+    </audio>
+
+    
+
+
+
+    <button id="button" onclick="desativarRecurso()">
+        Stop me!
+    </button>
+    <button id="button" onclick="reiniciar()">
+        Reiniciar
+    </button>
+
+
+
+
+
+
+    <script>
+        var audio = document.getElementById("audioMusic");
+        function desativarRecurso() {
+            audio.pause();
+        }
+
+        function reiniciar(){
+            audio.load()
+            audio.play()
+        }
+
+    </script>
+    </audio>
+</body>
+
+</html>

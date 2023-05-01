@@ -1,0 +1,18 @@
+1 - ffmpeg -i coffee.mp4 output.avi
+
+2 - ffmpeg -i coffee.mp4 -map ? -acodec copy audio.mp3
+
+3 - ffmpeg -i coffee.mp4 -ss 00:00:05 -t 00:00:15 -c:v copy -c:a copy output1.mp4
+
+4 - ffmpeg -i coffee.mp4 -vf subtitles=legendas.srt output_srt.mp4
+
+5 - ffmpeg -i coffee.mp4 -ss 0 -t 00:00:05 -c copy output.mp4
+
+6 - ffmpeg -i coffee.mp4 -vf scale=1280:720 -preset slow -crf 18 output.mp4
+
+7 - ffmpeg -i audio.flac output.mp3
+
+8 - ffmpeg -ss 00:00:04 -i coffee.mp4 %04d.png
+
+9 - ffmpeg -i coffee.mp4 -c:v copy -an videoWithoutAudio.mp4
+

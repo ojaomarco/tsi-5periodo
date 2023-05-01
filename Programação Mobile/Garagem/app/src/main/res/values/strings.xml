@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Garagem</string>
+    <string name="tipo">Tipo:</string>
+    <string name="automovel">Automóvel</string>
+    <string name="motocicleta">Motocicleta</string>
+    <string name="caminhao">Caminhão</string>
+</resources>

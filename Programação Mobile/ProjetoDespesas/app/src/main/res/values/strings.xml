@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" >Despesas</string>
+    <string name="valor">Valor</string>
+    <string name="vencimento">Vencimento</string>
+    <string name="adicionar">Add</string>
+    <string name="despesas_da_casa">Despesas da Casa</string>
+    <string name="categoria">Categoria:</string>
+    <string name="add">Add</string>
+    <string name="contas_agrupadas">Contas Agrupadas</string>
+    <string name="campo_vazio">Preencha todos os campos para adicionar uma categoria...</string>
+    <string name="selecione_cat_editar">Selecione uma categoria para editar...</string>
+    <string name="selecione_cat_remove">Selecione uma categoria para remover...</string>
+    <string name="selecione_desp_editar">Selecione uma despesa para editar...</string>
+    <string name="selecione_desp_remove">Selecione uma despesa para remover...</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="despesa">Despesa:</string>
+    <string name="excluir_despesa">Deseja excluir a despesa: </string>
+    <string name="editar_despesa">Deseja editar a despesa: </string>
+    <string name="excluir_cat">Deseja excluir a categoria: </string>
+    <string name="editar_cat">Deseja editar a categoria: </string>
+</resources>

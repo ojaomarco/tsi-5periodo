@@ -1,0 +1,3 @@
+Resposta Lista 02
+3
+O formato mp3 ocupa menos espaço pois ele é comprimido a ponte de remover todas as frequências menos audíveis aos ouvidos humanos, diferentemente do formato WAV que mantem todas essas frequências.

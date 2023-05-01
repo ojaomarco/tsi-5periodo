@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item  android:id="@+id/mi_adicionar"
+        android:title="Novo"
+        android:onClick="adicionarMenu"
+        app:showAsAction="always"
+        />
+
+    <item  android:id="@+id/mi_remover"
+        android:title="Excluir"
+        android:onClick="removerMenu"
+        app:showAsAction="always"
+        />
+    <item  android:id="@+id/mi_sair"
+        android:title="Sair"
+        android:onClick="sair"
+        app:showAsAction="always"
+        />
+</menu>
